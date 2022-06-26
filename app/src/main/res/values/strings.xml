@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Submission DIkoding</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="my_name">Jeno </string>
+    <string name="my_email">Jeno@gmail.com</string>
+
+    <string name="academy_name">Nama Academy</string>
+    <string name="academy_rate">Rate Academy</string>
+    <string name="academy_detail">Detail Academy</string>
+    <string name="academy_overview">Deskripsi</string>
+
+    <string name="title_detail">Disusun oleh \nLevel \nTeknologi \nEstimasi \nWebsite \n \nModul </string>
+    <string name="title_about_detail">Contact Person \n  \nTwitter \nInstagram \nLinkedIn \n   </string>
+    <string name="about_detail">\n \nqyuu \nq_yuu \nhttps://www.linkedin.com/in/muhammad-rifqi-syatria/  </string>
+    <string name="content_overview">Content Overview</string>
+    <string name="content_detail">Content Detail</string>
+</resources>
