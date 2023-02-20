@@ -7,12 +7,14 @@
     tools:context=".DetailBuahActivity">
 
     <LinearLayout
+        android:padding="12dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
 
         <ImageView
             android:id="@+id/img_buah"
+            android:layout_marginTop="12dp"
             android:layout_width="match_parent"
             android:layout_height="220dp" />
 
@@ -36,10 +38,12 @@
             android:textSize="15sp" />
 
         <TextView
+            android:layout_marginTop="16dp"
             android:id="@+id/tv_desc_buah"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="N"
+            android:text="An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition"
+            android:textAlignment="inherit"
             android:textSize="15sp" />
 
     </LinearLayout>
